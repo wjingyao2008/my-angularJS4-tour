@@ -1,13 +1,13 @@
 # AngularTourOfHeros
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
-## basic start
-### install
+## Basic start
+### Install
 ```
 npm install -g @angular/cli
 ```
-### create new app
+### Create new app
 ```ng new angular-tour-of-heroes```
-### server app
+### Server app
 ```ng serve --open```
 ## Development server
 
